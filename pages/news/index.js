@@ -1,7 +1,6 @@
-
 function NewsPage() {
     return (
-      <h1>NewsPage</h1>
+      <h1>news page index</h1>
     )
   }
   

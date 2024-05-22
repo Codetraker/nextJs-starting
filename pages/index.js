@@ -1,8 +1,7 @@
-
-function HomePage() {
-  return (
-    <h1>HomePage</h1>
-  )
-}
-
-export default HomePage;
+function NewsPage() {
+    return (
+      <h1>Main index</h1>
+    )
+  }
+  
+  export default NewsPage;
