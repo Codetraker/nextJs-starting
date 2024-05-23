@@ -4,7 +4,7 @@ function NewsPage() {
     const router = useRouter();
     const newId = router.query.newsId;
     return (
-      <h1>NewsId Page</h1>
+      <h1>{newId}</h1>
     )
   }
   
